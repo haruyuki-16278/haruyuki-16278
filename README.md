@@ -13,11 +13,11 @@ hello, my name is **Toshiyuki YAMAJI**(山地 駿徹). And I use **haruyuki** as
   - FUKUI SDGs AWARD 2022 北陸トラック運送株式会社賞 https://www.fukui-sdgs.com/award-winner
 - chiritsumo: https://github.com/haruyuki-16278/chiritsumo
   - 守る環境ハッカソンin鯖江 参加 https://peatix.com/event/3412028/view
-- ガンナガンカウンター: https://gunandgun-counter-4effwevxq1x0.deno.dev/
+- ガンナガンカウンター: https://gunandgun-counter.deno.dev/
 - tosuru: https://www.youtube.com/live/MFUYtcpahwM?feature=share&t=16297
 
 ### 🌱 currently learning ...
-- Alpine.js: https://haruyuki-alpinejs-sandbox-9xfe6283582g.deno.dev/
+- Alpine.js: https://haruyuki-alpinejs-sandbox.deno.dev/
 - Angular
 - TypeScript/JavaScript
 
