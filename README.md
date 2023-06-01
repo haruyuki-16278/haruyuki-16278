@@ -28,8 +28,8 @@ hello, my name is **Toshiyuki YAMAJI**(山地 駿徹). And I use **haruyuki** as
 - Python/microPython
 
 ### 🗒 my articles ...
-- qiita: https://qiita.com/Yamaji-Toshiyuki
-- jig.jp engineer blog
+- Qiita: https://qiita.com/Yamaji-Toshiyuki
+- jig.jp engineer blog: https://note.com/jigjp_engineer/
   - https://note.com/jigjp_engineer/n/naca73601ecc3
   - https://note.com/jigjp_engineer/n/n4ddbbc4fa8b9
 
