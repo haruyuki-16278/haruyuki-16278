@@ -9,8 +9,10 @@ hello, my name is **Toshiyuki YAMAJI**(山地 駿徹). And I use **haruyuki** as
 
 ### 😎 my products ...
 - kiku-me: https://github.com/haruyuki-16278/kiku-me
-  - Hacking Medicine 2021 https://inochi-wakazo.org/hm2021/ 最優秀賞
-  - FUKUI SDGs AWARD 2022 https://www.fukui-sdgs.com/award-winner 北陸トラック運送株式会社賞
+  - Hacking Medicine 2021 最優秀賞 https://inochi-wakazo.org/hm2021/
+  - FUKUI SDGs AWARD 2022 北陸トラック運送株式会社賞 https://www.fukui-sdgs.com/award-winner
+- chiritsumo: https://github.com/haruyuki-16278/chiritsumo
+  - 守る環境ハッカソンin鯖江 参加 https://peatix.com/event/3412028/view
 - ガンナガンカウンター: https://gunandgun-counter-4effwevxq1x0.deno.dev/
 - tosuru: https://www.youtube.com/live/MFUYtcpahwM?feature=share&t=16297
 
