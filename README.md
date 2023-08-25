@@ -13,6 +13,8 @@ hello, my name is **Toshiyuki YAMAJI**(山地 駿徹). And I use **haruyuki** as
   - FUKUI SDGs AWARD 2022 北陸トラック運送株式会社賞 https://www.fukui-sdgs.com/award-winner
 - chiritsumo: https://github.com/haruyuki-16278/chiritsumo
   - 守る環境ハッカソンin鯖江 参加 https://peatix.com/event/3412028/view
+- chanabi: http://chanabi.deno.dev/
+  - VRアプリ https://github.com/LawrenceTurnerW/AR-HANABI-project と連携するアプリ
 - ガンナガンカウンター: https://gunandgun-counter.deno.dev/
 - tosuru: https://www.youtube.com/live/MFUYtcpahwM?feature=share&t=16297
 
@@ -20,6 +22,8 @@ hello, my name is **Toshiyuki YAMAJI**(山地 駿徹). And I use **haruyuki** as
 - Alpine.js: https://haruyuki-alpinejs-sandbox.deno.dev/
 - Angular
 - TypeScript/JavaScript
+- Deno
+- Supabase
 
 ### 😍 love ...
 - Arduino, M5 Series boards, And PIC
