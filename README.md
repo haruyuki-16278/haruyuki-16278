@@ -8,6 +8,7 @@ hello, my name is **Toshiyuki YAMAJI**(山地 駿徹). And I use **haruyuki** as
 - etc...
 
 ### 😎 my products ...
+- Dice-Battle: https://haruyuki-16278.github.io/dice-battle/
 - E-vent: https://github.com/code4fukui/E-vent
   - Tokyo OSS Party 参加 https://p2cc-digital.metro.tokyo.lg.jp/party
 - kiku-me: https://github.com/haruyuki-16278/kiku-me
