@@ -22,17 +22,17 @@ hello, my name is **Toshiyuki YAMAJI**(山地 駿徹). And I use **haruyuki** as
 - tosuru: https://www.youtube.com/live/MFUYtcpahwM?feature=share&t=16297
 
 ### 🌱 currently learning ...
-- Alpine.js: https://haruyuki-alpinejs-sandbox.deno.dev/
 - Angular
 - TypeScript/JavaScript
 - Deno
-- Fresh
 - Supabase
 
 ### 😍 love ...
 - Arduino, M5 Series boards, And PIC
 - 3D Printing
 - Web App (Alpine.js, Angular)
+- Deno
+- ShellScript
 
 ### 🗒 my articles ...
 - Qiita: https://qiita.com/Yamaji-Toshiyuki
