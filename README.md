@@ -28,6 +28,7 @@ hello, my name is **Toshiyuki YAMAJI**(山地 駿徹). And I use **haruyuki** as
 - Supabase
 
 ### 😍 love ...
+- うどん(Udon)
 - Arduino, M5 Series boards, And PIC
 - 3D Printing
 - Web App (Alpine.js, Angular)
