@@ -5,6 +5,7 @@ hello, my name is **Toshiyuki YAMAJI**(山地 駿徹). And I use **haruyuki** as
 - 地域安全マップ キッズセーフ: https://code4fukui.github.io/kunitaka/
 - Cyber Sakura: https://cybersakura.jp/mentor.html
 - whowatch.tv: https://whowatch.tv
+- [北陸インバウンド観光DX](https://github.com/hokuriku-inbound-kanko/hokuriku-inbound-kanko-visualization): https://hokuriku-inbound-kanko.github.io/hokuriku-inbound-kanko-visualization/
 - etc...
 
 ### 😎 my products ...
